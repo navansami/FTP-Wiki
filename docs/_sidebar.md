@@ -1,8 +1,8 @@
 # [Home](README.md)
 
 - Rooms Division
-  - [Overview](/rooms-division/overview.md)
-  - [Upsell Grid](/rooms-division/upsell-grid.md)
+  - [Overview](/rooms/overview.md)
+  - [Upsell Grid](/rooms/upsell.md)
 - Food & Beverage
   - [Restaurant Outlets](/f-and-b/outlets.md)
   - [Wine List](/f-and-b/wine-list.md)
