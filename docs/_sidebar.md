@@ -1,3 +1,5 @@
+<!-- docs/_sidebar.md -->
+
 # [Home](README.md)
 
 - Rooms Division
